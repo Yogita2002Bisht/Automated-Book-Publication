@@ -38,6 +38,7 @@ Edit
  ┗ 📜 README.md           # Project documentation
  
 ⚙️ Setup
+
 1️⃣ Clone the repository
 
 bash
@@ -45,6 +46,7 @@ Copy
 Edit
 git clone https://github.com/Yogita2002Bisht/automated-book-publication.git
 cd automated-book-publication
+
 2️⃣ Install dependencies
 
 bash
@@ -52,20 +54,25 @@ Copy
 Edit
 pip install -r requirements.txt
 playwright install
+
 3️⃣ Set your Gemini API key
+
 Open ai_writer.py & ai_reviewer.py and paste your key:
 
 python
 Copy
 Edit
 genai.configure(api_key="YOUR_API_KEY")
+
 ▶️ Usage
+
 Run the UI:
 
 bash
 Copy
 Edit
 python editor_ui.py
+
 A Gradio app will open in your browser. You can:
 ✅ Enter a chapter URL → Scrape text & screenshot
 ✅ Click Rewrite with AI → Gemini rewrites the content
