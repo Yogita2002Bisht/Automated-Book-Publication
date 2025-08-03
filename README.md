@@ -24,12 +24,19 @@ pgsql
 Copy
 Edit
 📦 Automated Book Publication
+
  ┣ 📜 ai_writer.py        # Handles AI-based rewriting
+ 
  ┣ 📜 ai_reviewer.py      # Handles AI-based review notes
+ 
  ┣ 📜 scraper.py          # Scrapes chapter content and screenshots
+ 
  ┣ 📜 editor_ui.py        # Main Gradio UI for the whole workflow
+ 
  ┣ 📂 chapter files       # (e.g. chapter1.txt, chapter1_rewritten.txt, etc.)
+ 
  ┗ 📜 README.md           # Project documentation
+ 
 ⚙️ Setup
 1️⃣ Clone the repository
 
