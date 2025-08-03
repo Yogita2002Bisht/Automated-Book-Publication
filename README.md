@@ -74,9 +74,13 @@ Edit
 python editor_ui.py
 
 A Gradio app will open in your browser. You can:
+
 ✅ Enter a chapter URL → Scrape text & screenshot
+
 ✅ Click Rewrite with AI → Gemini rewrites the content
+
 ✅ Click Review Chapter → AI provides tone & flow suggestions
+
 ✅ Make manual edits → Save as final version
 
 🎯 Why I Built This
