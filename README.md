@@ -5,9 +5,13 @@ This project provides an end-to-end pipeline for automating book chapter process
 🚀 What It Does
 
 ✅ Scrapes chapters from sources (e.g., Wikisource) using Playwright
+
 ✅ Rewrites text in a fresh, modern tone using Gemini AI
+
 ✅ Reviews rewritten drafts and provides AI feedback
+
 ✅ Lets editors manually edit & save final versions
+
 ✅ Provides a Gradio web interface for an interactive workflow
 
 🛠 Tech Stack
