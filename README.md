@@ -25,12 +25,19 @@ VS Code → for development
 📂 Project Structure
 
 📦 Automated Book Publication
+
  ┣ 📜 ai_writer.py        # AI rewrite logic
+ 
  ┣ 📜 ai_reviewer.py      # AI review logic
+ 
  ┣ 📜 scraper.py          # Web scraping with Playwright
+ 
  ┣ 📜 editor_ui.py        # Gradio interface for editing
+ 
  ┣ 📜 chapter1.txt        # Example chapter
+
  ┣ 📜 requirements.txt    # Python dependencies
+ 
  ┗ 📜 README.md
  
 ⚙️ Setup
