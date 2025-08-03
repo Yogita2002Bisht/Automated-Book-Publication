@@ -36,7 +36,7 @@ Edit
 bash
 Copy
 Edit
-git clone https://github.com/your-username/automated-book-publication.git
+git clone https://github.com/Yogita2002Bisht/automated-book-publication.git
 cd automated-book-publication
 2️⃣ Install dependencies
 
